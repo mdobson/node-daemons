@@ -1,0 +1,9 @@
+{
+  "name": "http-daemon",
+  "description": "Simple example of an http server that runs as a daemon",
+  "author": "Matt Dobson <matt.dobson@paywithglyph.com>",
+  "dependencies":{
+    "daemonize2": "0.4.0-rc.5"
+  }
+  "engine": "node 0.8.6"
+}
